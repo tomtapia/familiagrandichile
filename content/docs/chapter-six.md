@@ -83,7 +83,7 @@ _**doña Avelina la persona más enigmática de la basta familia que ella ayudó
 
 ****\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*   Los Grandi en Chile \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*****
 
-**[![](https://sites.google.com/site/eugeniogrand/_/rsrc/1472852675769/home/002-P-AUTOR.jpg)](https://sites.google.com/site/eugeniogrand/home/002-P-AUTOR.jpg?attredirects=0)
+**[![](/familiagrandichile/images/002-P-AUTOR.jpg)](https://sites.google.com/site/eugeniogrand/home/002-P-AUTOR.jpg?attredirects=0)
 
 **********Autor: Raúl   Grandi Crisosto******
 

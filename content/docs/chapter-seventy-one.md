@@ -1240,7 +1240,7 @@ _![](https://sites.google.com/site/71santiagozorostanojevic/_/rsrc/1597348794534
 
  ******\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Los Grandi en **Chile** **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\******* 
 
-[**![](https://sites.google.com/site/eugeniogrand/_/rsrc/1472852675769/home/002-P-AUTOR.jpg?height=200&width=175)**](https://sites.google.com/site/eugeniogrand/home/002-P-AUTOR.jpg?attredirects=0)
+[**![](/familiagrandichile/images/002-P-AUTOR.jpg?height=200&width=175)**](https://sites.google.com/site/eugeniogrand/home/002-P-AUTOR.jpg?attredirects=0)
 
 ********Autor: Raúl   Grandi  Crisosto**********
 
