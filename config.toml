@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-cl'
+
+title = 'Los Grandi en Chile'
+theme = "hugo-book"
+
+[params]
+BookMenuBundle = "/menu"
