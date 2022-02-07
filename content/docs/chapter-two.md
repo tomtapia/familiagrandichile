@@ -3,7 +3,7 @@ bookFlatSection: false
 title: ""
 ---
 
-[![](https://sites.google.com/site/prologodellibro/_/rsrc/1301438441441/home/001-P-HERALDICA-Grandi.JPG?height=320&width=212)](https://sites.google.com/site/prologodellibro/home/001-P-HERALDICA-Grandi.JPG?attredirects=0)
+[![](/familiagrandichile/images/001-P-HERALDICA-Grandi.JPG)]
 
 ESCUDO DE ARMAS DE LA CASA GRANDI
 
